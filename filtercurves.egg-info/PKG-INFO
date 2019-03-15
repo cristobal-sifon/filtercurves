@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: filtercurves
+Version: 0.0.1b0
+Summary: Tools for using instrument filter curves in python
+Home-page: https://github.com/cristobal-sifon/filtercurves
+Author: Cristobal Sifon
+Author-email: sifon@astro.princeton.edu
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
